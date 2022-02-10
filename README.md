@@ -3,7 +3,7 @@ Use BeautifulSoup to download an HTML page with links to songs. Extract hyperlin
 
 Usage
 --------
-Jupiter Notebook 
+Jupiter Notebook Lyrics_classifier_web_scraping_nlp.ipynb
 
 Description
 --------
