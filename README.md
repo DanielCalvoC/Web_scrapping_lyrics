@@ -13,6 +13,6 @@ Used tech
 - Python
 - pandas
 - matplotlib
-- seaborn
-- sklearn
+- sklearn - LogReg, RandomForest
+- BeautifulSoup
 
